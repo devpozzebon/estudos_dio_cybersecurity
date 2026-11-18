@@ -35,6 +35,8 @@ A biblioteca utilizada para a criptografia de ponta a ponta é a `cryptography`,
 
 **IMPORTANTE:** Nunca execute scripts de criptografia em pastas reais do seu computador. Recomenda-se o uso de uma Máquina Virtual (VM) ou, no mínimo, de uma pasta isolada com arquivos fictícios.
 
+**Nota:** Leia o [Relatório de Defesa e Reflexão](RELATORIO_DEFESA.md) completo.
+
 ### Pré-requisitos
 1. Ter o Python instalado.
 2. Instalar a biblioteca de criptografia. No terminal, execute:
